@@ -1,4 +1,4 @@
-FROM linuxserver/letsencrypt
+FROM linuxserver/swag
 
 RUN apk --no-cache add \
         mailx \
